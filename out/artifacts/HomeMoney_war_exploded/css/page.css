@@ -1,0 +1,24 @@
+#pageControl{
+    width: 100%;
+    height: auto;
+    position: relative;
+    position:absolute;
+    bottom:30px;
+    font-size: 13px;
+}
+.pageControl_item{
+    width:120px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    float: right;
+    margin-right: 60px;
+    cursor: pointer;
+}
+.hr{
+    border:none;
+    border-top:1px solid #DFA40C;
+    height: 1px;
+    margin-top: 40px;
+    width: 96%;
+}
